@@ -1,0 +1,3 @@
+name: dev-lambda-endpoint
+description: dev example for setting up API Gateway with a basic Lambda backend
+runtime: python
